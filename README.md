@@ -45,6 +45,7 @@ npm start
 ```
 
 Rol Tabanlı Yetkilendirme Hiyerarşisi (RBAC)
+
 1.Misafir (Guest): İlanları ve filtreleri görüntüleyebilir; ilan açamaz veya mesaj atamaz.
 
 2.Öğrenci / Personel (User): İlan oluşturabilir, kendi ilanını "Bulundu" olarak kaldırabilir ve diğer kullanıcılarla anlık mesajlaşabilir.
