@@ -38,9 +38,11 @@ node server.js
 ```
 
 ### 3. Frontend İstemcisini Başlatma
+```bash
 cd frontend
 npm install
 npm start
+```
 
 Rol Tabanlı Yetkilendirme Hiyerarşisi (RBAC)
 1.Misafir (Guest): İlanları ve filtreleri görüntüleyebilir; ilan açamaz veya mesaj atamaz.
