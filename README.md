@@ -1,4 +1,4 @@
-# 🎓 Kampüs Kayıp & Bulunan Eşya Portalı
+Kampüs Kayıp & Bulunan Eşya Portalı
 
 Bu proje; üniversite kampüsü içerisindeki öğrencilerin, akademik ve idari personelin kaybettikleri veya buldukları eşyaları dijital bir ortamda güvenli, hızlı ve koordineli bir şekilde yönetebilmelerini sağlayan **Ayrık Mimari (Decoupled Architecture)** prensibiyle geliştirilmiş bir web uygulamasıdır.
 
