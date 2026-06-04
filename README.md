@@ -35,9 +35,9 @@ PostgreSQL üzerinde projenize ait bir veritabanı oluşturun ve gerekli tablo �
 cd backend
 npm install
 node server.js
+```
 
 ### 3. Frontend İstemcisini Başlatma
-Bash
 cd frontend
 npm install
 npm start
